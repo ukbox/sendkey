@@ -1,1 +1,1 @@
-# sendkey
+# OpenMauSuji Plugin sendkey
